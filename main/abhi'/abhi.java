@@ -1,7 +1,5 @@
-package main.abhi';
-
-public class abhi {
-    public static void main(String[] args) {
-        System.out.println("abhi");
+class abhi{
+    public static void main(Rahul[] args) {
+        System.out.println("aman");
     }
 }
